@@ -27,14 +27,20 @@ function Navagation() {
             </li>
             <div className="vr"></div>
             <li className="nav-item">
+              <a className="nav-link" href="#pipeline">
+                Our Pipeline
+              </a>
+            </li>
+            <div className="vr"></div>
+            <li className="nav-item">
               <a className="nav-link" href="#tech">
-                Our Technology
+                Core Technology
               </a>
             </li>
             <div className="vr"></div>
             <li className="nav-item">
               <a className="nav-link" href="#product">
-                Our Products
+                Our Therapeutic Peptides
               </a>
             </li>
             <div className="vr"></div>
@@ -73,8 +79,9 @@ function Navagation() {
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 px-3" variant="underline">
                   <Nav.Link href="#about">About Us</Nav.Link>
-                  <Nav.Link href="#tech">Our Technology</Nav.Link>
-                  <Nav.Link href="#product">Our Products</Nav.Link>
+                  <Nav.Link href="#pipeline">Our Pipeline</Nav.Link>
+                  <Nav.Link href="#tech">Core Technology</Nav.Link>
+                  <Nav.Link href="#product">Our Therapeutic Peptides</Nav.Link>
                   <Nav.Link href="#team">Our Team</Nav.Link>
                   <Nav.Link href="#contact">Contact Us</Nav.Link>
                 </Nav>

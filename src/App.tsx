@@ -8,6 +8,7 @@ import Product from "./components/Product.tsx"
 import Contact from "./components/Contact.tsx"
 import Footer from "./components/Footer.tsx"
 import Team from "./components/Team.tsx"
+import Pipeline from "./components/Pipeline.tsx"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <img src={main_image} className="w-100" />
       </div>
       <About />
+      <Pipeline />
       <Tech />
       <Product />
       <Team />

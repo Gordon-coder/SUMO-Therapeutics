@@ -1,4 +1,4 @@
-import OurTechnology from "../assets/OurTechnology.png";
+import OurTechnology from "../assets/OurTechnology.jpeg";
 
 function Tech() {
   return (

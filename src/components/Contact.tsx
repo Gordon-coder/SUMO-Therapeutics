@@ -5,7 +5,7 @@ function Contact() {
         <div style={{ paddingTop: 20 }}></div>
         <h1 className="text-center">Contact Us</h1>
         <div className="text-center">
-          Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@robozyme-limited.com" target="_blank">info@robozyme-limited.com</a>
+          Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=SUMOtherapeutics@gmail.com" target="_blank">SUMOtherapeutics@gmail.com</a>
         </div>
       </div>
         </>

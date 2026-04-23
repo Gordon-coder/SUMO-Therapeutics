@@ -16,10 +16,9 @@ function About() {
           <div className={isBig ? "width-5" : "w 100"}>
             <h4>Who We Are?</h4>
             <p className="mx-auto text-center">
-              We are a startup focused on developing innovative solutions for
-              generating robust, recyclable, and cost-effective enzymes that
-              unlock their full potential as catalysts to produce commercially
-              viable products.
+              We are a biotech startup focused on developing innovative peptide therapeutics
+              derived from human SUMO proteins to treat neurodegenerative diseases, with a
+              focus on Alzheimer's and Parkinson's disease.
             </p>
           </div>
           {isBig ? (
@@ -47,8 +46,9 @@ function About() {
           <div className={isBig ? "width-5" : "w-100"}>
             <h4>Our Mission</h4>
             <p className="mx-auto text-center">
-              Our mission is to harness the power of enzymes to promote green
-              sustainable chemical processes for a healthier and cleaner world.
+              We aim to pioneer first-in-class peptide inhibitors which can slow and prevent
+disease progression with minimal side effects, enhancing the quality of life of
+patients, their families and society.
             </p>
           </div>
         </section>
